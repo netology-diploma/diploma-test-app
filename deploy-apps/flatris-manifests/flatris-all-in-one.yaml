@@ -59,7 +59,8 @@ spec:
         backend:
           service:
             name: flatris
-            port: 3000
+            port:
+              number: 3000
   tls:
     - secretName: letsencrypt-prod
       hosts:
