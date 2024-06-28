@@ -5,7 +5,7 @@
 replicaCount: 1
 
 image:
-  repository: cr.yandex/crpm59021suhup36kglb/flatris
+  repository: cr.yandex/crpt7o7msj0kv25nq2l7/flatris
   pullPolicy: IfNotPresent
   # Overrides the image tag whose default is the chart appVersion.
   tag: "latest"
